@@ -30,7 +30,7 @@ open class Customer (
 		println("Adding customer: $customerName")
 	
 	}
-	fun getResidentialInfo(){
+	fun getCustomerInfo(){
 		println("*****" +
 				"Customer name: $customerName\n" +
 				"Customer Phone: $customerPhone\n" +
