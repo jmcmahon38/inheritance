@@ -1,4 +1,18 @@
 // Commerical has an isMultiProperty attribute to help determine price
+/**
+ * Class Commercial
+ * @author Justin McMahon
+ * date: 10/18/21
+ * @param
+ *
+ * isMultiProperty determines a discount for the getWeeklyCharges
+ * customer rate is constant at 5 should be val actually
+ *
+ * @method
+ * getCommercialInfo info gets all fields for commercial customer
+ * getWeeklyCharges calculates charges for the week for the customer.
+ *
+ */
 class Commercial(
 	isMultiProperty: Boolean, // add customer ID and property object to commercial class
 	propertyName: String,

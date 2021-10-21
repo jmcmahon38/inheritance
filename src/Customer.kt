@@ -1,4 +1,14 @@
-// customer class contains most basic information for an account
+// customer class contains most basic information for an account\
+/**
+ * Class Commercial
+ * super class for residential, commercial, classes
+ * @author Justin McMahon
+ * date: 10/18/21
+ * @param
+ * name, address, phone -- get relevant details of customer
+ * this can be modified if needed.
+ *
+ */
 open class Customer (
 	customerName: String,
 	customerPhone: String,

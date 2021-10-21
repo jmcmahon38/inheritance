@@ -1,4 +1,19 @@
 fun main() {
+	
+	/**
+	 * @author Justin McMahon
+	 * date: 10/18/21
+	 *
+	 * @fun
+	 * addNewCustomer: asks user what type of customer
+	 * to select and runs res or commerc function based on selction
+	 *
+	 * getResideentialData(): Residential: Residential asks user residential information
+	 * and returns a Residential class object
+	 *
+	 * getCommercialData(): Commercial - Commercial asks user residential information
+	 * and returns a Commercial class object
+	 */
 	// notes
 //	var person1 = Person("John", "Doe")
 //	var person2 = Teacher("Math", "James", "Quick")
